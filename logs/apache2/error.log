@@ -1,0 +1,480 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 07:55:56.698150 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 07:55:56.698239 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 08:34:53.833111 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 08:35:01.110047 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 08:35:01.110155 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 08:57:45.072191 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 08:57:51.279763 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 08:57:51.280356 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 15:57:01.997001 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel8/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 15:57:11.806720 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 15:57:11.806986 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 16:01:15.362580 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel8/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 16:01:20.960942 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 16:01:20.960996 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 16:13:41.944967 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel8/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 16:13:47.479914 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 15 16:13:47.479957 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 16 06:35:11.699707 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 16 06:35:11.699740 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu May 16 08:51:52.538772 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 16 08:51:59.932718 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 16 08:51:59.932870 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 16 10:43:03.915845 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 16 10:43:03.915934 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 00:21:26.991840 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 00:21:26.991970 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 01:57:12.705197 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 01:57:12.705263 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 17 09:24:18.123621 2024] [core:notice] [pid 1] AH00052: child pid 194093 exit signal Broken pipe (13)
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 09:25:52.454888 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 09:25:52.455005 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 17 10:23:43.533888 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 10:23:51.821886 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 10:23:51.821945 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 17 11:34:08.875700 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 11:34:47.798130 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 11:34:47.798185 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 17 17:19:40.355470 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 17 17:19:40.355509 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 01:52:44.098555 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 01:52:44.098600 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 06:26:39.144848 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 06:26:39.144917 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/web/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 14:09:05.168272 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 14:09:05.168315 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 18 17:28:08.698711 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 17:28:15.288282 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 17:28:15.288670 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 18 17:38:11.761447 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 17:38:25.308351 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 17:38:25.308399 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 18 18:15:15.679900 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 18:15:22.163242 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 18:15:22.163296 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat May 18 19:59:16.244665 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 18 19:59:16.244710 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon May 20 00:37:51.249268 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 20 00:37:51.249313 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 20 01:23:25.621758 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 20 01:23:25.621805 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon May 20 19:22:37.965052 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 20 19:22:37.965092 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 21 00:39:56.016912 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 21 00:39:56.017023 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 04:16:58.143175 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 04:17:14.425017 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 04:17:14.425058 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 04:39:19.447384 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 04:39:28.830687 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 04:39:28.830898 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 05:14:21.264900 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 05:14:29.530030 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 05:14:29.530105 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 05:18:35.262078 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 05:18:45.409001 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 05:18:45.409064 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 06:19:21.789963 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 06:19:21.790016 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 08:12:48.715361 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 08:12:48.715448 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 08:27:08.956051 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 08:27:13.771463 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 08:27:13.771540 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 11:09:49.545391 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 11:09:49.545479 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 11:26:02.846123 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 11:26:07.796862 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 11:26:07.796917 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 16:02:22.016252 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 16:02:42.790297 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 16:02:42.790338 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 22 16:14:21.655963 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 22 16:14:27.340091 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 22 16:14:27.340135 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 24 02:38:38.569399 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 24 02:38:38.569509 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat May 25 06:27:58.431383 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat May 25 06:27:58.431452 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun May 26 06:22:47.040506 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sun May 26 06:22:47.040549 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 01:59:10.043576 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 01:59:21.283050 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 01:59:21.283100 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 02:10:06.289469 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 02:10:15.118913 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 02:10:15.118972 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 02:45:02.941905 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 02:45:34.456749 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 02:45:34.456809 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 02:46:38.656977 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 02:48:10.122597 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 02:48:10.122652 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 06:15:21.044738 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/app/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 06:15:29.592002 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 06:15:29.592073 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 09:08:57.176100 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 09:08:57.176145 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 10:02:55.788238 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 10:02:55.788300 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 10:32:39.426864 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 10:32:58.044770 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 10:32:58.044841 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 27 10:44:18.052495 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 10:44:27.408616 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 10:44:27.408683 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon May 27 12:08:09.333738 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon May 27 12:08:09.333800 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 01:22:34.261520 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 01:22:34.261724 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 03:57:51.407139 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 03:57:51.407192 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 28 07:42:38.501130 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 07:42:45.799160 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 07:42:45.799201 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 12:48:12.931967 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 12:48:12.932016 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 28 13:50:32.270731 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 13:50:42.032301 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 13:50:42.032367 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 28 14:09:15.374771 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue May 28 14:09:25.793762 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue May 28 14:09:25.793855 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 01:22:53.277690 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 01:22:53.277739 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 29 01:53:42.400223 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 01:53:48.161650 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 01:53:48.161712 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 29 02:11:10.949496 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 02:11:16.516174 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 02:11:16.516305 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 29 02:27:46.975497 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 02:27:53.387741 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 02:27:53.387949 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 29 02:37:03.508595 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 02:37:08.084935 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 02:37:08.085006 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 08:33:53.141782 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 08:33:53.142279 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 29 08:52:19.901971 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Wed May 29 08:52:19.902002 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 01:10:15.779709 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 30 01:10:15.779752 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu May 30 01:58:04.803721 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 01:58:12.397300 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 30 01:58:12.397385 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu May 30 02:24:00.213142 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 02:24:14.635585 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 30 02:24:14.636228 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 06:21:15.790662 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 30 06:21:15.790762 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 15:18:04.325107 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Thu May 30 15:18:04.325158 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri May 31 02:06:25.688194 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 31 02:06:25.688482 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 31 02:35:40.411975 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri May 31 02:36:03.194255 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 31 02:36:03.194893 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 31 02:54:19.590329 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri May 31 02:54:22.997735 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri May 31 02:54:22.997844 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 01 16:45:30.205334 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 01 16:45:30.205399 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 03 02:13:40.131789 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Jun 03 02:13:40.131863 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jun 03 02:26:16.515416 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 03 02:26:49.144087 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Jun 03 02:26:49.144166 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jun 03 02:26:56.068416 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 03 02:27:07.424497 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Jun 03 02:27:07.424583 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 03 02:29:44.102844 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Jun 03 02:29:44.102888 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 03 04:36:10.249559 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Jun 03 04:36:10.249603 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laravel-rd/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/skudetto/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 04 11:19:17.654343 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.7 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Jun 04 11:19:17.654409 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
